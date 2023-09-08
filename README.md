@@ -2,7 +2,7 @@
 
 This is a simple calculator web application built using HTML, CSS, and JavaScript. You can use it to perform basic arithmetic operations like addition, subtraction, multiplication, and division, all within your web browser.
 
-Features:
+<h3>Features:</h3>
 Responsive design: The calculator is designed to work on both desktop and mobile devices, adjusting its layout for a seamless user experience.
 
 Clear and intuitive user interface: The buttons and display are designed for easy and straightforward use.
